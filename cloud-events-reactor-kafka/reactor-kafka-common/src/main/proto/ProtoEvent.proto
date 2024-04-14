@@ -1,0 +1,8 @@
+syntax = "proto3";
+option java_package = "com.reactive.kafka";
+option java_outer_classname = "ProtoEventProto";
+
+message ProtoEvent {
+  string eventId = 1;
+  string eventName = 2;
+}

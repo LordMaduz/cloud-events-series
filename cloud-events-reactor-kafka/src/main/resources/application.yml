@@ -1,0 +1,2 @@
+KAFKA_GROUP_ID: EVENT_GROUP
+KAFKA_TOPIC_NAME: spring_cloud_config_channel
